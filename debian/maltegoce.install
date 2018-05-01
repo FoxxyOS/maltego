@@ -1,0 +1,10 @@
+debian/helper-script/* usr/bin/
+bin usr/share/maltegoce/
+etc usr/share/maltegoce/
+groovy usr/share/maltegoce/
+ide usr/share/maltegoce/
+java usr/share/maltegoce/
+maltego usr/share/maltegoce/
+maltego-core-platform usr/share/maltegoce/
+maltego-ui usr/share/maltegoce/
+platform usr/share/maltegoce/

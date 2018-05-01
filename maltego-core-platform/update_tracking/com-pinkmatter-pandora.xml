@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.pinkmatter.pandora">
+    <module_version install_time="1475072701552" last="true" origin="installer" specification_version="1.0">
+        <file crc="2841222103" name="config/Modules/com-pinkmatter-pandora.xml"/>
+        <file crc="704878985" name="modules/com-pinkmatter-pandora.jar"/>
+        <file crc="3943591916" name="modules/ext/bean-utils-1.0-SNAPSHOT.jar"/>
+        <file crc="1504235648" name="modules/ext/commons-beanutils-1.9.2.jar"/>
+        <file crc="3280865456" name="modules/ext/commons-codec-1.9.jar"/>
+        <file crc="28241745" name="modules/ext/commons-collections-3.2.1.jar"/>
+        <file crc="1200174112" name="modules/ext/commons-lang3-3.4.jar"/>
+        <file crc="3077296198" name="modules/ext/commons-logging-1.1.1.jar"/>
+        <file crc="2893489971" name="modules/ext/hamcrest-core-1.3.jar"/>
+        <file crc="2641701948" name="modules/ext/jts-1.13.jar"/>
+        <file crc="1355517765" name="modules/ext/junit-4.12.jar"/>
+        <file crc="4227412896" name="modules/ext/lucene-analyzers-common-5.5.0.jar"/>
+        <file crc="896410345" name="modules/ext/lucene-core-5.5.0.jar"/>
+        <file crc="2145763727" name="modules/ext/lucene-misc-5.5.0.jar"/>
+        <file crc="995550611" name="modules/ext/lucene-queries-5.5.0.jar"/>
+        <file crc="1556350888" name="modules/ext/lucene-queryparser-5.5.0.jar"/>
+        <file crc="1163257444" name="modules/ext/lucene-sandbox-5.5.0.jar"/>
+        <file crc="1950569142" name="modules/ext/lucene-spatial-5.5.0.jar"/>
+        <file crc="1043638279" name="modules/ext/lucene-spatial3d-5.5.0.jar"/>
+        <file crc="1505188802" name="modules/ext/pandora-api-1.4.2.jar"/>
+        <file crc="3214105314" name="modules/ext/pandora-core-1.4.2.jar"/>
+        <file crc="2900314414" name="modules/ext/slf4j-api-1.7.12.jar"/>
+        <file crc="4277646829" name="modules/ext/spatial-types-1.5.1.jar"/>
+        <file crc="3776779087" name="modules/ext/spatial4j-0.5.jar"/>
+        <file crc="596927156" name="modules/ext/time-utils-1.0.0.jar"/>
+    </module_version>
+</module>

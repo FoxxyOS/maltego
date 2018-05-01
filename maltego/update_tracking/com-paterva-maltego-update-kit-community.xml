@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.update.kit.community">
+    <module_version install_time="1475072927958" last="true" origin="installer" specification_version="1.0">
+        <file crc="2021568239" name="config/Modules/com-paterva-maltego-update-kit-community.xml"/>
+        <file crc="1827506543" name="modules/com-paterva-maltego-update-kit-community.jar"/>
+    </module_version>
+</module>

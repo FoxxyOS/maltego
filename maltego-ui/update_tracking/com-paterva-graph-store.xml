@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.graph.store">
+    <module_version install_time="1475072866396" last="true" origin="installer" specification_version="1.0">
+        <file crc="4254786942" name="config/Modules/com-paterva-graph-store.xml"/>
+        <file crc="4207074387" name="modules/com-paterva-graph-store.jar"/>
+    </module_version>
+</module>

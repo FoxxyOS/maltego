@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.matching">
+    <module_version install_time="1475072714880" last="true" origin="installer" specification_version="1.0">
+        <file crc="2436319261" name="config/Modules/com-paterva-maltego-matching.xml"/>
+        <file crc="3348650878" name="modules/com-paterva-maltego-matching.jar"/>
+    </module_version>
+</module>

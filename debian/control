@@ -1,0 +1,18 @@
+Source: maltegoce
+Section: non-free/utils
+Priority: extra
+Maintainer: Lisetta "Sheireen" Ferrero <sheireen@foxxysec.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.8
+Homepage: http://paterva.com
+Vcs-Git: git://dev.foxxysec.org/foxxy/maltego
+Vcs-Browser: https://dev.foxxysec.org/foxxy/maltego
+
+Package: maltegoce
+Architecture: all
+Depends: ${misc:Depends}, default-jre, java-wrappers
+Description: Open source intelligence and forensics framework
+ Maltegoce is an open source intelligence and forensics 
+ application. It will offer you timous mining and gathering 
+ of information as well as the representation of this 
+ information in a easy to understand format.

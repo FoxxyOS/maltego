@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.runviews">
+    <module_version install_time="1475072878021" last="true" origin="installer" specification_version="1.0">
+        <file crc="1340876425" name="config/Modules/com-paterva-maltego-runviews.xml"/>
+        <file crc="865082196" name="modules/com-paterva-maltego-runviews.jar"/>
+    </module_version>
+</module>

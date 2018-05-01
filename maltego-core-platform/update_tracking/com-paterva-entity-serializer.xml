@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.entity.serializer">
+    <module_version install_time="1475072727927" last="true" origin="installer" specification_version="1.0">
+        <file crc="3759454406" name="config/Modules/com-paterva-entity-serializer.xml"/>
+        <file crc="1686625575" name="modules/com-paterva-entity-serializer.jar"/>
+    </module_version>
+</module>

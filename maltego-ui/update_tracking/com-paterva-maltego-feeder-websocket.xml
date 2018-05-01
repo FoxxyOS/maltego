@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.feeder.websocket">
+    <module_version install_time="1475072840583" last="true" origin="installer" specification_version="1.0">
+        <file crc="4049174802" name="config/Modules/com-paterva-maltego-feeder-websocket.xml"/>
+        <file crc="374230290" name="modules/com-paterva-maltego-feeder-websocket.jar"/>
+    </module_version>
+</module>

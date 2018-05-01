@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.selection">
+    <module_version install_time="1475072709224" last="true" origin="installer" specification_version="1.0">
+        <file crc="4239112781" name="config/Modules/com-paterva-maltego-graph-selection.xml"/>
+        <file crc="1546061369" name="modules/com-paterva-maltego-graph-selection.jar"/>
+    </module_version>
+</module>

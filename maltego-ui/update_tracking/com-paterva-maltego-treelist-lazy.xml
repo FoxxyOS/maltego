@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.treelist.lazy">
+    <module_version install_time="1475072798302" last="true" origin="installer" specification_version="1.0">
+        <file crc="257296463" name="config/Modules/com-paterva-maltego-treelist-lazy.xml"/>
+        <file crc="3546288211" name="modules/com-paterva-maltego-treelist-lazy.jar"/>
+    </module_version>
+</module>

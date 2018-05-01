@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.satelliteview">
+    <module_version install_time="1475072878974" last="true" origin="installer" specification_version="1.0">
+        <file crc="2398173753" name="config/Modules/com-paterva-maltego-satelliteview.xml"/>
+        <file crc="1968371748" name="modules/com-paterva-maltego-satelliteview.jar"/>
+    </module_version>
+</module>

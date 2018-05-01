@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.netbeans.modules.groovy.editor/2">
+    <module_version install_time="1461600983306" last="true" origin="installer" specification_version="1.59.2">
+        <file crc="546264867" name="config/Modules/org-netbeans-modules-groovy-editor.xml"/>
+        <file crc="3292655318" name="modules/org-netbeans-modules-groovy-editor.jar"/>
+    </module_version>
+</module>

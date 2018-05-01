@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.treelist.parts">
+    <module_version install_time="1475072815568" last="true" origin="installer" specification_version="1.0">
+        <file crc="860712557" name="config/Modules/com-paterva-maltego-treelist-parts.xml"/>
+        <file crc="1224901802" name="modules/com-paterva-maltego-treelist-parts.jar"/>
+    </module_version>
+</module>

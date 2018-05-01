@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.icons.general">
+    <module_version install_time="1475072756911" last="true" origin="installer" specification_version="1.0">
+        <file crc="462592981" name="config/Modules/com-paterva-maltego-icons-general.xml"/>
+        <file crc="2655382059" name="modules/com-paterva-maltego-icons-general.jar"/>
+    </module_version>
+</module>

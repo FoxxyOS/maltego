@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.java.config.ui">
+    <module_version install_time="1475072767802" last="true" origin="installer" specification_version="1.0">
+        <file crc="1023760471" name="config/Modules/com-paterva-maltego-java-config-ui.xml"/>
+        <file crc="2895834933" name="modules/com-paterva-maltego-java-config-ui.jar"/>
+        <file crc="1997688037" name="modules/ext/Java_Config_App.jar"/>
+    </module_version>
+</module>

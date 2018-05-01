@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.runregistry">
+    <module_version install_time="1475072707739" last="true" origin="installer" specification_version="1.0">
+        <file crc="1512309859" name="config/Modules/com-paterva-maltego-runregistry.xml"/>
+        <file crc="608622031" name="modules/com-paterva-maltego-runregistry.jar"/>
+    </module_version>
+</module>

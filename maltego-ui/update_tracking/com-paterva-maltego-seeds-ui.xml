@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.seeds.ui">
+    <module_version install_time="1475072918427" last="true" origin="installer" specification_version="1.0">
+        <file crc="2496141679" name="config/Modules/com-paterva-maltego-seeds-ui.xml"/>
+        <file crc="2963438153" name="modules/com-paterva-maltego-seeds-ui.jar"/>
+    </module_version>
+</module>

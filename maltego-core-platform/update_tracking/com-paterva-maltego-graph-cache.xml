@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.cache">
+    <module_version install_time="1475072710443" last="true" origin="installer" specification_version="1.0">
+        <file crc="2878828153" name="config/Modules/com-paterva-maltego-graph-cache.xml"/>
+        <file crc="437449366" name="modules/com-paterva-maltego-graph-cache.jar"/>
+    </module_version>
+</module>

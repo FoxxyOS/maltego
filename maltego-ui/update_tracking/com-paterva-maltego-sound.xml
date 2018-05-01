@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.sound">
+    <module_version install_time="1475072803943" last="true" origin="installer" specification_version="1.0">
+        <file crc="3968844943" name="config/Modules/com-paterva-maltego-sound.xml"/>
+        <file crc="2097782459" name="modules/com-paterva-maltego-sound.jar"/>
+    </module_version>
+</module>

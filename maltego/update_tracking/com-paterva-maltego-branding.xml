@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.branding">
+    <module_version install_time="1475072925802" last="true" origin="installer" specification_version="1.0">
+        <file crc="290450289" name="config/Modules/com-paterva-maltego-branding.xml"/>
+        <file crc="1363485865" name="core/locale/core_maltego.jar"/>
+        <file crc="3377521590" name="modules/com-paterva-maltego-branding.jar"/>
+        <file crc="896735138" name="modules/ext/locale/updater_maltego.jar"/>
+    </module_version>
+</module>

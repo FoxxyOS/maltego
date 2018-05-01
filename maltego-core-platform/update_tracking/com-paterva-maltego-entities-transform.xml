@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.entities.transform">
+    <module_version install_time="1475072692864" last="true" origin="installer" specification_version="1.0">
+        <file crc="3453617029" name="config/Modules/com-paterva-maltego-entities-transform.xml"/>
+        <file crc="488482156" name="modules/com-paterva-maltego-entities-transform.jar"/>
+    </module_version>
+</module>

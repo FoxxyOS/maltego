@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.collab">
+    <module_version install_time="1475072872364" last="true" origin="installer" specification_version="1.0">
+        <file crc="2416864421" name="config/Modules/com-paterva-maltego-collab.xml"/>
+        <file crc="2951564641" name="modules/com-paterva-maltego-collab.jar"/>
+    </module_version>
+</module>

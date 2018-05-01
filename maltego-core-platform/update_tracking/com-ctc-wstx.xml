@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.ctc.wstx">
+    <module_version install_time="1475072690614" last="true" origin="installer" specification_version="1.0">
+        <file crc="2588864151" name="config/Modules/com-ctc-wstx.xml"/>
+        <file crc="2473134640" name="modules/com-ctc-wstx.jar"/>
+        <file crc="1645750284" name="modules/ext/stax-utils-20070216.jar"/>
+        <file crc="1045952483" name="modules/ext/stax2-api-3.1.4.jar"/>
+        <file crc="3076248041" name="modules/ext/woodstox-core-5.0.1.jar"/>
+    </module_version>
+</module>

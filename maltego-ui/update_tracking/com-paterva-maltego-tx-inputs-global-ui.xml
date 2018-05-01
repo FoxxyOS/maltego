@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.tx.inputs.global.ui">
+    <module_version install_time="1475072813083" last="true" origin="installer" specification_version="1.0">
+        <file crc="2206367400" name="config/Modules/com-paterva-maltego-tx-inputs-global-ui.xml"/>
+        <file crc="2704022239" name="modules/com-paterva-maltego-tx-inputs-global-ui.jar"/>
+    </module_version>
+</module>

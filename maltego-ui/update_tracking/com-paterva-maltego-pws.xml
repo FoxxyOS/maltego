@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.pws">
+    <module_version install_time="1475072888427" last="true" origin="installer" specification_version="1.0">
+        <file crc="1972411975" name="config/Modules/com-paterva-maltego-pws.xml"/>
+        <file crc="461063156" name="modules/com-paterva-maltego-pws.jar"/>
+    </module_version>
+</module>

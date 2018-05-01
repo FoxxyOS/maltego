@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.graph.store.views">
+    <module_version install_time="1475072857755" last="true" origin="installer" specification_version="1.0">
+        <file crc="2545127655" name="config/Modules/com-paterva-maltego-graph-store-views.xml"/>
+        <file crc="1568017464" name="modules/com-paterva-maltego-graph-store-views.jar"/>
+    </module_version>
+</module>

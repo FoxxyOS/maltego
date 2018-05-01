@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.icons.affiliations">
+    <module_version install_time="1475072755286" last="true" origin="installer" specification_version="1.0">
+        <file crc="258551119" name="config/Modules/com-paterva-maltego-icons-affiliations.xml"/>
+        <file crc="2907289535" name="modules/com-paterva-maltego-icons-affiliations.jar"/>
+    </module_version>
+</module>

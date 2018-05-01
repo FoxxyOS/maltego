@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="com.paterva.maltego.typing.editing">
+    <module_version install_time="1475072811052" last="true" origin="installer" specification_version="1.0">
+        <file crc="1850081566" name="config/Modules/com-paterva-maltego-typing-editing.xml"/>
+        <file crc="1868144490" name="modules/com-paterva-maltego-typing-editing.jar"/>
+    </module_version>
+</module>
